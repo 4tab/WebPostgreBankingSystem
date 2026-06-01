@@ -1,0 +1,6 @@
+/home/wk/Documents/Projects/2026/java/personal/WebPostgreBankingSystem/src/main/java/za/co/_4tab/banking/BankingApp.java
+/home/wk/Documents/Projects/2026/java/personal/WebPostgreBankingSystem/src/main/java/za/co/_4tab/banking/config/DatabaseInitializer.java
+/home/wk/Documents/Projects/2026/java/personal/WebPostgreBankingSystem/src/main/java/za/co/_4tab/banking/controller/AccountController.java
+/home/wk/Documents/Projects/2026/java/personal/WebPostgreBankingSystem/src/main/java/za/co/_4tab/banking/model/Account.java
+/home/wk/Documents/Projects/2026/java/personal/WebPostgreBankingSystem/src/main/java/za/co/_4tab/banking/repo/AccountRepository.java
+/home/wk/Documents/Projects/2026/java/personal/WebPostgreBankingSystem/src/main/java/za/co/_4tab/banking/service/AccountService.java
